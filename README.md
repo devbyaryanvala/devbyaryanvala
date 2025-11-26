@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 👨‍💻 All of my projects are available at [aryanvala.online](https://www.aryanvala.online)
+- 👨‍💻 All of my projects are available at [aryanvala.in](https://www.aryanvala.in)
 
 - 💬 Ask me about **NodeJS, ThreeJS, Flask, C++, C, JAVA, dotNET, Flutter, Git, and more**
 
