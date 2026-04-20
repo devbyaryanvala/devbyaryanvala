@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/aryan-vala-ba62a1212">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/dez.artab">
+  <a href="https://instagram.com/dez.aryan">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:aryanvala.edu@gmail.com">
